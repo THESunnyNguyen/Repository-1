@@ -1,0 +1,9 @@
+var = chrddict = {
+  A: "A", "Am", "A7", "Am7"
+  B: "B", "Bm", "B7", "Bm7"
+  C: "C", "Cm", "C7", "Cm7"
+  D: "D", "Dm", "D7", "Dm7"
+  E: "E", "Em", "E7", "Em7"
+  F: "F", "Fm", "F7", "Fm7"
+  G: "G", "Gm", "G7", "Gm7"
+}
